@@ -1,14 +1,14 @@
 {
   "soundboards": [
     {
+      "name": "default",
+      "repo": "https://github.com/boingbangpang/os-sound-board",
+      "manifest": "soundboard.json"
+    },
+    {
       "name": "RPG",
       "repo": "https://github.com/boingbangpang/soundboard-default",
       "manifest": "soundboard.json"
     },
-    {
-      "name": "Sci-Fi",
-      "repo": "https://github.com/yourname/soundboard-scifi",
-      "manifest": "soundboard.json"
-    }
   ]
 }
