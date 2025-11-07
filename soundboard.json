@@ -1,0 +1,19 @@
+{
+  "name": "Japanese SFX",
+  "author": "boingbangpang",
+  "description": "A curated collection of sounds (cc0)",
+  "files": [
+    {
+      "filename": "kabuki.mp3",
+      "title": "Kabuki",
+      "category": "Japan",
+      "color": "primary"
+    },
+    {
+      "filename": "wind_chime.mp3",
+      "title": "Wind Chime",
+      "category": "Japan",
+      "color": "secondary"
+    }
+  ]
+}
