@@ -6,7 +6,9 @@
       "author": "boingbangpang",
       "description": "Main stuff",
       "soundboardJsonUrl": "https://github.com/boingbangpang/os-sound-board",
-      "manifest": "soundboard.json"
+      "manifest": "soundboard.json",
+      "commitSha": "d3ff76cebc0b895351c07ee862493f2ddf3b373f",
+      "lastUpdated": "2025-11-16"
     },
     {
       "id": "default",
@@ -14,7 +16,9 @@
       "author": "boingbangpang",
       "description": "Random stuff",
       "soundboardJsonUrl": "https://github.com/boingbangpang/soundboard-default",
-      "manifest": "soundboard.json"
+      "manifest": "soundboard.json",
+      "commitSha": "ace612224ae9d8f43362149faf919c818df88b5f",
+      "lastUpdated": "2025-11-16"
     },
   ]
 }
