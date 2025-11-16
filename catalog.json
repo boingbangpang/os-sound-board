@@ -1,13 +1,19 @@
 {
   "soundboards": [
     {
-      "name": "default",
-      "repo": "https://github.com/boingbangpang/os-sound-board",
+      "id": "main",
+      "name": "Main Soundboard",
+      "author": "boingbangpang",
+      "description": "Main stuff",
+      "soundboardJsonUrl": "https://github.com/boingbangpang/os-sound-board",
       "manifest": "soundboard.json"
     },
     {
-      "name": "RPG",
-      "repo": "https://github.com/boingbangpang/soundboard-default",
+      "id": "default",
+      "name": "Default Soundboard",
+      "author": "boingbangpang",
+      "description": "Random stuff",
+      "soundboardJsonUrl": "https://github.com/boingbangpang/soundboard-default",
       "manifest": "soundboard.json"
     },
   ]

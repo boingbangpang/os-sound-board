@@ -1,5 +1,5 @@
 {
-  "name": "Japanese SFX",
+  "name": "Main SFX",
   "author": "boingbangpang",
   "description": "A curated collection of sounds (cc0)",
   "files": [
@@ -12,6 +12,36 @@
     {
       "filename": "wind_chime.mp3",
       "title": "Wind Chime",
+      "category": "Japan",
+      "color": "primary"
+    },
+    {
+      "filename": "stab_shock.mp3",
+      "title": "Stab (shock)",
+      "category": "SFX",
+      "color": "tertiary"
+    },
+    {
+      "filename": "stab_horror.mp3",
+      "title": "Stab (horror)",
+      "category": "SFX",
+      "color": "tertiary"
+    },
+    {
+      "filename": "dial_up.mp3",
+      "title": "Dial up",
+      "category": "Nostalgia",
+      "color": "secondary"
+    },
+    {
+      "filename": "airhorn.mp3",
+      "title": "Air Horn",
+      "category": "SFX",
+      "color": "tertiary"
+    },
+    {
+      "filename": "ba_dum_ts.mp3",
+      "title": "Ba dum tss (drum FX)",
       "category": "Japan",
       "color": "secondary"
     }
